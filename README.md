@@ -17,6 +17,7 @@ Upon clicking on the Generate Password button, the user will go through a series
 ![image](https://user-images.githubusercontent.com/65471245/131264961-5e65e5d3-8305-4f40-b4d8-01244e4e310c.png)
 ![image](https://user-images.githubusercontent.com/65471245/131264963-7e62296c-a35b-415c-9c22-455e114bb2c4.png)
 ![image](https://user-images.githubusercontent.com/65471245/131264965-a4a6e055-166b-4b5f-84fb-b31fce82594f.png)
+
 Once complete, the new generated password will be written onto the page.
 ![image](https://user-images.githubusercontent.com/65471245/131264979-59a2ec90-c8ef-4738-9553-674dd30f7d51.png)
 
